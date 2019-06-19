@@ -1,9 +1,6 @@
-#include <string>
 #include <vector>
-#include <list>
 #include <stack>
 #include "Parser.h"
-#include "ParseToken.h"
 #include "BadSyntaxException.h"
 
 namespace ExprSorter_Parsing
